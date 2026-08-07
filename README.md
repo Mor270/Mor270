@@ -34,12 +34,13 @@ Je transforme des données dispersées en tableaux de bord fiables et exploitabl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-A5122A?style=flat-square)
 
 **Cloud & plateformes**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-A5122A?style=flat-square)
+
 
 **Versioning & intégration continue**
 
