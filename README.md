@@ -2,9 +2,11 @@
 
 # Salut, je suis Mor Talla DIENG 👋
 
-### Data Analyst Confirmé / Data Enginer — Power BI Specialist
+### Data Analyst Confirmé / Data Engineer — Power BI Specialist
 
 Je transforme des données dispersées en tableaux de bord fiables et exploitables pour la décision.
+
+![Disponibilité](https://img.shields.io/badge/Disponibilité-Immédiate-3FA796?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mor270.github.io-3FA796?style=for-the-badge)](https://mor270.github.io/portfolio-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mortalladieng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mortalladieng)
@@ -18,8 +20,9 @@ Je transforme des données dispersées en tableaux de bord fiables et exploitabl
 
 - 🔭 Actuellement Data Analyst / Référent Power BI sur un programme national de 300 M€ (FNCCR — ACTEE)
 - 📊 Expert Power BI (DAX, Power Query, certifié PL-300), avec une maîtrise opérationnelle de SQL, Python et R
-- 🌱 En apprentissage continu : automatisation, CI/CD, et outils de développement modernes
-- 📍 Basé à Angers, France — mobile France entière & remote
+- ☁️ En montée en compétence sur Google Cloud Platform (certification Google Cloud Architect en préparation)
+- 🌱 En apprentissage continu : Git/GitHub, CI/CD, et outils de développement modernes
+- 📍 Basé à Angers, France — mobile France entière & remote — disponibilité immédiate
 
 ## 🛠️ Stack technique
 
@@ -32,12 +35,18 @@ Je transforme des données dispersées en tableaux de bord fiables et exploitabl
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Outils & plateformes**
+**Cloud & plateformes**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-A5122A?style=flat-square)
+
+**Versioning & intégration continue**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-A5122A?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
 
 ## 📌 Projets épinglés
 
