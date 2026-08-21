@@ -2,7 +2,7 @@
 
 # Salut, je suis Mor Talla DIENG 👋
 
-### Data Analyst Confirmé | Data Engineer - Power BI | DAX | SQL | Python | GCP
+### Data Analyst Confirmé | Data Engineer - Power BI | DAX | SQL | Python 
 
 Je transforme des données dispersées en tableaux de bord fiables et exploitables pour la décision.
 
