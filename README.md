@@ -2,8 +2,7 @@
 
 # Salut, je suis Mor Talla DIENG 👋
 
-### Data Analyst Confirmé | Data Engineer - Power BI | DAX | SQL | Python 
-
+### Data Analyst Confirmé | Analyste BI - Power BI | DAX | SQL | Python | R
 Je transforme des données dispersées en tableaux de bord fiables et exploitables pour la décision.
 
 ![Disponibilité](https://img.shields.io/badge/Disponibilité-Immédiate-3FA796?style=for-the-badge)
