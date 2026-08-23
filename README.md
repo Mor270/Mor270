@@ -7,7 +7,7 @@ Je transforme des données dispersées en tableaux de bord fiables et exploitabl
 
 ![Disponibilité](https://img.shields.io/badge/Disponibilité-Immédiate-3FA796?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mor270.github.io-3FA796?style=for-the-badge)](https://mor270.github.io/portfolio-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mor270.github.io-3FA796?style=for-the-badge)](https://mor270.github.io/Portfolio-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mortalladieng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mortalladieng)
 [![Email](https://img.shields.io/badge/Email-diengmortalla4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diengmortalla4@gmail.com)
 
