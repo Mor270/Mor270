@@ -18,7 +18,7 @@ Je transforme des données dispersées en tableaux de bord fiables et exploitabl
 
 ## 🧭 À propos
 
-- 🔭 Actuellement Data Analyst / Référent Power BI sur un programme national de 300 M€ (FNCCR — ACTEE)
+- 🔭 Data Analyst | Chargé d’études statistiques
 - 📊 Expert Power BI, avec une maîtrise opérationnelle de SQL, Python et R
 - ☁️ En montée en compétence sur Google Cloud Platform (certification Google Cloud Architect en préparation)
 - 🌱 En apprentissage continu : Git/GitHub, CI/CD, et outils de développement modernes
