@@ -2,7 +2,7 @@
 
 # Salut, je suis Mor Talla DIENG 👋
 
-### Data Analyst Confirmé / Chargé d’études statistiques — Power BI Specialist
+### Data Analyst | Chargé d’études statistiques - Power BI | DAX | SQL | Python | R
 
 Je transforme des données dispersées en tableaux de bord fiables et exploitables pour la décision.
 
